@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @MyProVerse in and as Ali Zaman
 
+👋 Hi, I’m @MyProVerse in and as 
+## Ali Zaman
 
 ## About Me
 
@@ -36,10 +37,15 @@ September 2021 - October 2025
 - WordPress (Elementor Pro, Oxygen Builder)
 
 👀 I’m interested in exploring new front-end technologies and advancements in Artificial Intelligence.
+
 🌱 I’m currently learning advanced JavaScript frameworks and libraries like React and Vue.js.
+
 😄 Pronouns: He/Him
+
 📫 Email: alizaman6780@gmail.com, l1f21bscs1119@ucp.edu.pk
+
     LinkedIn: [Ali Zaman Web Developer](https://www.linkedin.com/in/ali-zaman-web-developer/)
+
 💞️ I’m looking to collaborate on open-source projects related to web development and AI.
 
 
